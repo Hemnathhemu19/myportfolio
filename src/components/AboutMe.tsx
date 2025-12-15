@@ -39,7 +39,7 @@ export default function AboutMe() {
                     showMobileWarning={false}
                     showTooltip={true}
                     displayOverlayContent={true}
-                    imgClassName="grayscale contrast-125 brightness-90"
+                    //imgClassName="grayscale contrast-125 brightness-90"
                     overlayContent={
                         <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black/80 to-transparent text-white">
                             <h3 className="text-xl font-bold">HEMNATH MH</h3>
